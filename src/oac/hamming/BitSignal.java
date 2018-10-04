@@ -3,7 +3,7 @@ package oac.hamming;
 import java.util.Arrays;
 /**
  * 
- * @author 
+ * @author Hericles
  *
  */
 public class BitSignal {

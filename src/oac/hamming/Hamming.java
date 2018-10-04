@@ -2,7 +2,7 @@ package oac.hamming;
 
 /**
  * 
- * @author 
+ * @author Hericles 
  *
  */
 
