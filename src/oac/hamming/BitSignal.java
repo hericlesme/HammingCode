@@ -1,7 +1,11 @@
 package oac.hamming;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Hericles
+ *
+ */
 public class BitSignal {
 
 	private int size;

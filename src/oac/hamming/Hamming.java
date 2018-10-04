@@ -1,5 +1,11 @@
 package oac.hamming;
 
+/**
+ * 
+ * @author Hericles 
+ *
+ */
+
 public class Hamming {
 
 	private final String NL = "|" + System.lineSeparator();

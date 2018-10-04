@@ -1,5 +1,9 @@
 package oac.hamming;
 
+/**
+ * 
+ */
+
 import java.util.Scanner;
 
 public class Main {
